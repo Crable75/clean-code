@@ -108,7 +108,7 @@
   margin: 0 0 20px;
 }
 
-#new-task__input {
+#new-task__id-for-input {
   width: 318px;
 }
 
@@ -133,7 +133,7 @@
   width: 226px;
 }
 
-.btn.delete:hover {
+.btn--delete:hover {
   color: #cf2323;
 }
 
